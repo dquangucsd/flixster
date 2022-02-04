@@ -1,0 +1,2 @@
+# flixster
+Scrolling movies app
